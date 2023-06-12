@@ -42,4 +42,4 @@ ImageGallery.propTypes = {
       tags: PropTypes.string.isRequired,
     })
   ).isRequired,
-}
+};
